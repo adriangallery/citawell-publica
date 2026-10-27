@@ -1,0 +1,10 @@
+/* Citawell: colores de citawell.com sobre TryPost (texto #131A22, acento #FF5A3C). Se carga después del CSS de TryPost. */
+:root{
+  --primary:#131A22;--primary-foreground:#fff;
+  --accent:#FFE9E4;--accent-foreground:#9E2F18;
+  --ring:#FF5A3C;
+  --color-violet-50:oklch(97% .015 35);--color-violet-100:oklch(94% .03 35);--color-violet-200:oklch(89% .06 35);
+  --color-violet-300:oklch(82% .1 35);--color-violet-400:oklch(74% .15 35);--color-violet-500:oklch(68% .19 35);
+  --color-violet-600:oklch(60% .2 35);--color-violet-700:oklch(52% .18 35);--color-violet-800:oklch(44% .15 35);
+  --color-violet-900:oklch(37% .12 35);--color-violet-950:oklch(26% .08 35);
+}

@@ -3,7 +3,7 @@
 Instalación de [TryPost](https://github.com/trypostit/trypost) 1.1.0 (licencia AGPL-3.0) que sirve https://publica.citawell.com,
 la app de Citawell para publicar vídeos en TikTok.
 
-Cambios sobre TryPost: solo la marca (logos, icono y favicon en `public/`). El resto es la imagen oficial
+Cambios sobre TryPost: solo la marca (logos, icono, favicon y colores en `public/`, y una línea en `app.blade.php` que carga `citawell.css`). El resto es la imagen oficial
 `ghcr.io/trypostit/trypost:1.1.0` sin modificar; su código fuente completo está en el repositorio de TryPost.
 
 ## Construir y desplegar
